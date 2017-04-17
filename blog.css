@@ -1,0 +1,73 @@
+head {
+  color: blue;
+  font-size: 38px;
+
+  }
+
+header h1 {
+	font-family: Over the rainbow;
+	font-size: 40px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 27.2px;
+  color: olive;
+​
+}
+
+.tabla {
+  margin-left: 35%;
+}
+.my-box {
+  padding-top: 3px;
+  padding-right: 4px;
+  padding-bottom: 5px;
+  padding-left: 6px;
+
+  }
+
+th {
+    text-align: center;
+}
+td {
+    text-align: center;
+}
+
+.lista{
+  text-align: initial;
+  margin-left: 45%;
+}
+article {
+  margin: 0 auto;
+
+}
+
+body {
+  background-color: #ffebcd;
+  font-family: "Nova Slim";
+	text-align: center;
+​
+​}
+
+article {
+  font-size: 20px;
+
+}
+.ulio{
+  text-align: initial;
+    vertical-align: middle;
+    margin-left: 35%;
+}
+
+.foti {
+  height: 400px;
+  width: 300px;
+}
+​
+footer{
+  background-color: #FA58AC;
+  padding: 12px 10px;
+  border-top: 10px;
+  color: blue;
+  font-size: 12px;
+  font-style: Cagliostro;
+}
